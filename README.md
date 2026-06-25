@@ -2,7 +2,7 @@
 Power BI dashboard analyzing Diwali sales data across customer demographics, geography,occupation and product categories.
  Project Overview
 - An end-to-end business intelligence dashboard analyzing Diwali Festive Sales data across 11,000+ transaction to uncover      customer behavior patterns and drive targeted marketing strategy.
- Problem Statement
+  Problem Statement
 - Analyze Diwali sales data to identify customer purchasing behavior across demographics, geography, occupation and product    categories to optimize marketing strategies and maximize festive revenue.
  Page 1- Customer Demographics
 - Revenue and order analysis by Age Group & Gender
